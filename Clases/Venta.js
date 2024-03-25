@@ -12,4 +12,6 @@ new class Venta{
     getTasaescribano(){
         
     }
+
+    //este comentario es de prueba, se hace en branchJ
 }
