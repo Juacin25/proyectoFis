@@ -11,7 +11,7 @@ new class Auto{
     }
 
     getCostoPatente(pagos){
-
+        return this.patente;
     }
 
     getCostoSeguro(pagos){
