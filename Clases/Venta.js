@@ -14,5 +14,5 @@ new class Venta{
     }
 
     //este comentario es de prueba, se hace en branchJ 
-    //segundo comentario de prueba, tmb en branchJ
+    //segundo comentario de prueba
 }
