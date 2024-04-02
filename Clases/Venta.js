@@ -14,6 +14,10 @@ new class Venta{
     }
 
     //este comentario es de prueba, se hace en branchJ 
-    //segundo comentario de prueba, aver si hace conflicto
+<<<<<<< HEAD
+    //segundo comentario de prueba
     
+=======
+    //segundo comentario de prueba
+>>>>>>> branchJ
 }
